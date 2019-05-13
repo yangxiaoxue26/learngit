@@ -1,6 +1,0 @@
-Git is a version control system.
-Git is free software.
-sceond test
-Git tracks changes.
-Git tracks changes of files
-fdsfasfas
