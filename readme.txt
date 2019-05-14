@@ -1,2 +1,3 @@
 witched to branch 'master'
-123
+Creating a new branch is quick & simple.
+
